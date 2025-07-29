@@ -13,3 +13,4 @@ My daily work involves Go, Postgres, AWS in the finance industry.
 - I’m currently learning
 
   - Ornament-8 with Lyra-8 and Pulsar-23
+  - Rust
